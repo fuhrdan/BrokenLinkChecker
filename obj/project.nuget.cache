@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4faj2RdDIA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ksfuh\\BrokenLinkChecker\\BrokenLinkChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksfuh\\.nuget\\packages\\htmlagilitypack\\1.11.62\\htmlagilitypack.1.11.62.nupkg.sha512"
+  ],
+  "logs": []
+}

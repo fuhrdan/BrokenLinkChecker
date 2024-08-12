@@ -1,0 +1,17 @@
+C:\Users\ksfuh\BrokenLinkChecker\bin\Debug\net8.0\BrokenLinkChecker.exe
+C:\Users\ksfuh\BrokenLinkChecker\bin\Debug\net8.0\BrokenLinkChecker.deps.json
+C:\Users\ksfuh\BrokenLinkChecker\bin\Debug\net8.0\BrokenLinkChecker.runtimeconfig.json
+C:\Users\ksfuh\BrokenLinkChecker\bin\Debug\net8.0\BrokenLinkChecker.dll
+C:\Users\ksfuh\BrokenLinkChecker\bin\Debug\net8.0\BrokenLinkChecker.pdb
+C:\Users\ksfuh\BrokenLinkChecker\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.csproj.AssemblyReference.cache
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.AssemblyInfoInputs.cache
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.AssemblyInfo.cs
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLi.C3A8543B.Up2Date
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.dll
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\refint\BrokenLinkChecker.dll
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.pdb
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\BrokenLinkChecker.genruntimeconfig.cache
+C:\Users\ksfuh\BrokenLinkChecker\obj\Debug\net8.0\ref\BrokenLinkChecker.dll
